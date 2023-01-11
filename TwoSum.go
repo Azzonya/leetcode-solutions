@@ -1,8 +1,10 @@
 package main
 
 func main() {
+
 	nums := []int{2, 7, 11, 15}
 	twoSum(nums, 9)
+
 }
 
 func twoSum(nums []int, target int) []int {
